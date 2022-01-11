@@ -1,2 +1,2 @@
 # FinalProject
-Sheri Z, Sean Farr, Diamond Washington
+Jake, Sheri and Diamond
