@@ -1,5 +1,5 @@
 # FinalProject
-- Jake-
+- Jake
 - Lawernce 
 - Sheri 
 - Diamond
