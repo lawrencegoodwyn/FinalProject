@@ -14,11 +14,18 @@ DATA:   Date, time, moon phone aggregated with calls to service. (Gainesville)
 -	Repo management: (Diamond)- general research about the moon phases, the theory and creating the backbone to a well written analysis. 
 -	Mockup ML: (Lawrence)- an idea of the possible algorithms to create this automation
 -	Mockup Database w/ sample data: (Sheri)- cleaned CSV data, tables thinking about creating
--	Technologies:  possible dependencies and imports (Jacob)
+
+# Technologies Used:  possible dependencies and imports (Jacob)
+o Microsoft Office CSV For Excel
+o Python
+o SQL
 o	Postgres
-o	Panda
+o Jupyter Notebook
+o	Pandas
 o	Tableau
+o Machine Learning
 o	Dashboard
+
 
 Common point deducations
 o	Need average 5 plus commits from everyone. 
