@@ -16,15 +16,15 @@ DATA:   Date, time, moon phone aggregated with calls to service. (Gainesville)
 -	Mockup Database w/ sample data: (Sheri)- cleaned CSV data, tables thinking about creating
 
 # Technologies Used:  possible dependencies and imports (Jacob)
-o Microsoft Office CSV For Excel
-o Python
-o SQL
-o	Postgres
-o Jupyter Notebook
-o	Pandas
-o	Tableau
-o Machine Learning
-o	Dashboard
+- Microsoft Office CSV For Excel
+- Python
+- SQL
+- Postgres
+- Jupyter Notebook
+- Pandas
+- Tableau
+- Machine Learning
+- Dashboard
 
 
 Common point deducations
