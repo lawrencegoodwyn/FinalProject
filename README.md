@@ -16,16 +16,18 @@ DATA:   Date, time, moon phone aggregated with calls to service. (Gainesville)
 -	Mockup Database w/ sample data: (Sheri)- cleaned CSV data, tables thinking about creating
 - Technologies Used:  possible dependencies and imports (Jacob)
 
-# Technology 
-- Microsoft Office CSV For Excel
-- Python
-- SQL
-- Postgres
-- Jupyter Notebook
-- Pandas
-- Tableau
-- Machine Learning
-- Dashboard
+# Technology Used
+## Data Cleaning
+Jupyter Notebook and Pandas will be used to clean the datasets.  Python will be used for further analysis 
+
+## Data Storage
+Postgres will be the database used.  We will query and join the datasets utilizing SQL.  
+
+## Machine Learning
+SciKitLearn is the library that will be used.  We will be using K-Nearest Neighbor, RandomForest and Naive-Bayes
+
+## Dashboard
+We will use Tableau for visual displays.  A flask template and D3.js will be used for a fully functioning interactive dashboard
 
 
 Common point deducations
