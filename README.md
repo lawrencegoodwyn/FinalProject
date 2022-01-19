@@ -6,12 +6,13 @@
 
 # Hypothesis: 
 
-Everyone has heard the tale about weird things happening during a full moon. The police, fire rescue, service operators and hospitals are speculated to see a spike in calls during a full moon phase. To accomplish this analysis during the four moon phases (New moon, First Quarter, third quarter, and full moon) we will look at the calls for service in Gainesville, Florida that went to the police and the fire rescue department between the years 2018 and 2021. There is some assumption that following March 2020 the calls to service may trend a bit differently due to the introduction of COVID-19. 
-1.	Can we predict the possible crimes based on the moon phases?
-2.	During the changes of the moon phases what type of crimes do we predict and where do we predit they will occur?
-3.	What type of crimes should we expect leading up to the full moon? 
 
-We selected this topic to verify if there is any correlation to the moon phases and calls to service to determine if the myth is simply a myth or a probable explanation for some of the weird things that happen when it is a full moon. 
+Everyone has heard the tale about weird things happening during a full moon. The police, fire rescue, service operators and hospitals are speculated to see a spike in calls during a full moon phase. To accomplish this analysis during the four moon phases (New moon, First Quarter, third quarter, and full moon) we will look at the calls for service in Gainesville, Florida that went to the police and the fire rescue department between the years 2018 and 2021. There is some assumption that following March 2020 the calls to service may trend a bit differently due to the introduction of COVID-19. We selected this topic to verify if there is any correlation to the moon phases and calls to service to determine if the myth is simply a myth or a probable explanation for some of the weird things that happen when it is a full moon.
+
+1.	Can we predict the possible crimes based on the moon phases? Crimes will be categories in non and non-violent and futer subcaterogies (see below)
+2.	What type of crimes should we expect leading up to the full moon? 
+3.	Are the moon phases relevant? 
+
 
 # Data Source
 [Lunar Calendar](timeanddate.com)
