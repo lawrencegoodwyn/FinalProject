@@ -70,7 +70,7 @@ Mockup ML: Classify the crimes as either violent or not-- then using the moob ph
   - TensorFlow
   - Kmiras
   - Clustering
-  - Y = Violent crime
+  - y = Violent crime
   - X = Moon Phase 
 
 OTHER NOTES: 
