@@ -64,7 +64,12 @@ With the remaining unique incident types we decided to group them into the follo
 - Homicide
 - Theft
 - Suicide
-- Other
+- Government regulation violation
+- Quality of life
+
+**violent:**
+
+**non-violent:**
 
 Mockup ML: Classify the crimes as either violent or not-- then using the moob phases then input both into model and use ML to take a deep dive into the crime and when it coorelates with the _day of the week (DOW)_ moon phases. Inputting data from 2018-2021. Dependencies imported: 
   - Scikit 
