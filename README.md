@@ -2,14 +2,14 @@
 
 
 # Final Project
-## Selected topic and Why and Questions we hope answer
+## Selected topic and Why and Questions we hope to answer
 
 # Hypothesis: 
 
 
 Everyone has heard the tale about weird things happening during a full moon. The police, fire rescue, service operators and hospitals are speculated to see a spike in calls during a full moon phase. To accomplish this analysis during the four moon phases (New moon, First Quarter, Third Quarter, and Full Moon), we will look at the calls for service in Gainesville, Florida that went to the police and the fire rescue department between the years 2018 and 2021. There is some assumption that following March 2020 the calls to service may trend a bit differently due to the introduction of COVID-19. We selected this topic to verify if there is any correlation to the moon phases and calls to service to determine if the myth is simply a myth or a probable explanation for some of the weird things that happen when it is a full moon.
 
-1.Can we predict the type of crimes based on the moon phases? Crimes will be categories in violent and non-violent and future subcategories (see below)
+1.Can we predict the type of crimes based on the moon phases? Crimes will be categorized in violent and non-violent and future subcategories (see below)
 2.	What type of crimes should we expect leading up to the full moon? 
 3.	Are the moon phases relevant? 
 
