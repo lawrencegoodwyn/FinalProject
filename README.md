@@ -71,9 +71,8 @@ Mockup ML: Classify the crimes as either violent or not-- then using the moob ph
   - OneHotEnconder _(?) - If we want to identify on the data the crimes_
   - Kmiras
   - Clustering
+  - Y = Violent crime
   - X = Moon Phase 
-  - y = Crime Type _(Or -- use OneHotEncoder and have each type of crime be considered a Y/N?)_
-Is the moon phase relevant to a violent crime? 
 
 OTHER NOTES: 
 Finding if there is a strong relationship between the models.  The strength of the correlation then allows us to make an easier link for causation. Why might these things be correlated.  Machine learning is all predictive and doesn’t actually understand. 
