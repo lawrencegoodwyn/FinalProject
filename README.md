@@ -65,14 +65,14 @@ With the remaining unique incident types we decided to group them into the follo
 - Suicide
 - Other
 
-Mockup ML: Use ML to take a deep dive into the crime and when it coorelates with day of the week (DOW) and Moon Phases. Inputting data from 2018-2021. Dependencies imported: 
+Mockup ML: Classify the crimes as either violent or not-- then using the moob phases then input both into model and use ML to take a deep dive into the crime and when it coorelates with the _day of the week (DOW)_ moon phases. Inputting data from 2018-2021. Dependencies imported: 
   - Scikit 
   - TensorFlow
-  - OneHotEnconder (?) - If we want to identify on the data the crimes
+  - OneHotEnconder _(?) - If we want to identify on the data the crimes_
   - Kmiras
   - Clustering
-  - X = Moon Phase
-  - y = Crime Type (Or -- use OneHotEncoder and have each type of crime be considered a Y/N?) 
+  - X = Moon Phase 
+  - y = Crime Type _(Or -- use OneHotEncoder and have each type of crime be considered a Y/N?)_
 
 OTHER NOTES: 
 Finding if there is a strong relationship between the models.  The strength of the correlation then allows us to make an easier link for causation. Why might these things be correlated.  Machine learning is all predictive and doesn’t actually understand. 
