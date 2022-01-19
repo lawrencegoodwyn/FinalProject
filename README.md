@@ -67,6 +67,8 @@ Mockup ML: Use ML to take a deep dive into the crime and when it coorelates with
   - Scikit 
   - TensorFlow
   - OneHotEnconder (?) - If we want to identify on the data the crimes
+  - Kmiras
+  - Clustering
   - X = Moon Phase
   - y = Crime Type (Or -- use OneHotEncoder and have each type of crime be considered a Y/N?) 
 
