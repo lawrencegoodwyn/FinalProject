@@ -24,10 +24,9 @@ Jupyter Notebook and Pandas will be used to clean the datasets.  Python will be 
 Postgres will be the database used.  We will query and join the datasets utilizing SQL.  
 
 ## Machine Learning
-SciKitLearn is the library that will be used.  We will be using K-Nearest Neighbor, RandomForest and Naive-Bayes
-
+SciKitLearn is the library that will be used.  We will be using K-Nearest Neighbor, RandomForest and Naive-Bayes, Yellow Brick
 ## Dashboard
-We will use Tableau for visual displays.  A flask template and D3.js will be used for a fully functioning interactive dashboard
+We will use Tableau and MatPlotLib/Plotly for visual displays.  A flask template and D3.js will be used for a fully functioning interactive dashboard
 
 
 Common point deducations
