@@ -8,12 +8,14 @@
 
 Everyone has heard the tale about weird things happening during a full moon. The police, fire rescue, service operators and hospitals are speculated to see a spike in calls during a full moon phase. To accomplish this analysis during the four moon phases (New Moon, First Quarter, Third Quarter, and Full Moon), we will look at the calls for service in Gainesville, Florida that went to the police and the fire rescue department between the years 2018 and 2021. There is some assumption that following March 2020 the calls to service may trend a bit differently due to the introduction of COVID-19. We selected this topic to explore if there is any correlation to the moon phases and calls to service to determine if the myth is simply a myth or a probable explanation for some of the weird things that happen when it is a full moon.
 
-1.  Can we predict the type of crimes based on the moon phases? Crimes will be categorized in violent and non-violent and future subcategories (see below)
+1.  Can we predict the type of crimes based on the moon phases? Crimes will be categorized into Person or Property and futured seperated by crime type. (see below)
 2.	What type of crimes should we expect leading up to the full moon? 
-3.	Are the moon phases relevant? 
+3.	Are the moon phases relevant? if so which is the most?
+
+[Presentation](https://docs.google.com/presentation/d/11eIVAccX1Z8nAHaC2epMZFV1IC3TIXff1RNx4FilYmQ/edit?usp=sharing)
 
 # ROLES: 
--	Repo management: (Diamond)- general research about the moon phases, the theory and creating the backbone to a well written analysis. 
+-	Repo management: (Diamond)- interactive dashboard, gernal research for a well written presentation and analysis. 
 -	Mockup ML: (Lawrence)- an idea of the possible algorithms to create this automation
 -	Mockup Database w/ sample data: (Sheri)- cleaned CSV data, tables thinking about creating
 - Technologies Used:  possible dependencies and imports (Jacob)
@@ -72,9 +74,7 @@ With the remaining unique incident types we decided to group them into the follo
 - Government regulation violation
 - Quality of life
 
-**violent:**
 
-**non-violent:**
 
 Mockup ML: Classify the crimes as either violent or not-- then using the moob phases then input both into model and use ML to take a deep dive into the crime and when it coorelates with the _day of the week (DOW)_ moon phases. Inputting data from 2018-2021. Dependencies imported: 
   - Scikit 
