@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CallsForService
 --
 ID int
@@ -21,3 +22,32 @@ Date date
 moonPhase varchar(30)
 
 
+=======
+CallsForService
+--
+ID int
+CFS varchar(80) FK >- Classification.CFS
+offenseDate datetime FK >- MoonPhase.fullDate
+offenseHour int
+offenseDOW varchar(10)
+CFSaddress varchar(80)
+CFSlatitude float
+CFSlongitude float
+
+Classification
+--
+CFS varchar(80) 
+CFS_type varchar(30)
+Classification varchar(30)
+
+MoonPhase
+--
+date varchar(30) 
+month int
+day int
+year int
+fullDate datetime
+DOW varchar(10)
+time datetime
+moonPhase varchar(30)
+>>>>>>> 6b3778a0791d73f430c1c2676e457a5144b21290
