@@ -30,7 +30,7 @@ Postgres will be the database used.  We will query and join the datasets utilizi
 ## Machine Learning
 SciKitLearn is the library that will be used.  We will be using K-Nearest Neighbor, RandomForest and Naive-Bayes, Yellow Brick
 ## Dashboard
-We will use Tableau and MatPlotLib/Plotly for visual displays.  A flask template and D3.js will be used for a fully functioning interactive dashboard
+We will use Tableau Public and MatPlotLib/Plotly for visual displays and fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/MoonPhaseCrime_Test/MapofAssaultBatteryLocations?publish=yes)
 
 # Data Source
 [Lunar Calendar](timeanddate.com)
