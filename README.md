@@ -84,9 +84,3 @@ Mockup ML: Classify the crimes as either violent or not-- then using the moob ph
   - y = Violent crime
   - X = Moon Phase 
 
-OTHER NOTES: 
-Finding if there is a strong relationship between the models.  The strength of the correlation then allows us to make an easier link for causation. Why might these things be correlated.  Machine learning is all predictive and doesn’t actually understand. 
-
-
-
-
