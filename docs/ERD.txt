@@ -1,0 +1,23 @@
+CallsForService
+--
+ID int
+CFS varchar(80) FK >- Classification.CFS
+offenseDate datetime FK >- MoonPhase.fullDate
+offenseHour int
+offenseDOW varchar(10)
+CFSaddress varchar(80)
+CFSlatitude float
+CFSlongitude float
+
+Classification
+--
+CFS varchar(80) 
+CFS_type varchar(30)
+Classification varchar(30)
+
+MoonPhase
+--
+Date date
+moonPhase varchar(30)
+
+

@@ -1,0 +1,9 @@
+pgAdmin Table Joins
+
+Select *
+
+from callsforservice c
+join classification cls
+on c.cfs = cls.cfs
+left join moonPhase mp
+on c.offensedate = mp.date
