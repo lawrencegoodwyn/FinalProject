@@ -1,5 +1,5 @@
 # Final Project
-
+<img src ="https://user-images.githubusercontent.com/89044350/152267296-ad42e344-9cba-4295-a1e4-db557a73dcb4.jpg" width = '1000'>
 ## Communication Protocols
 - Weekly Meeting Saturday 8am -10am 
 - Slack Channel 
