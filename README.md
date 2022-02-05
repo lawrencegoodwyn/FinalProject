@@ -1,22 +1,20 @@
-# Final Project
 
-## Communication Protocols
-- Weekly Meeting Saturday 8am -10am 
-- Slack Channel 
+<img src ="https://user-images.githubusercontent.com/89044350/152267296-ad42e344-9cba-4295-a1e4-db557a73dcb4.jpg" width = '1000'>
 
-## Selected topic and Why/Questions we hope to answer
+# Visualizing Moon Phases and Crime Types in Gainesville,Florida
 
-Everyone has heard the tale of weird things happening during a full moon. Police, fire rescue, service operators and hospitals are speculated to see a spike in calls during a full moon phase. This project attempts to analyze the calls for service and associated crimes in Gainesville, Florida that went to the police and fire rescue department between 2018 and 2021 during the four moon phases (New Moon, First Quarter, Third Quarter, and Full Moon).  We selected this topic to explore if there is any connection to the moon phases and calls to service to determine if the myth is simply a myth or a probable explanation for the weird things that occur on a full moon.
+## Overview
+Everyone has heard the tale of weird things happening during a full moon. Police, fire rescue, service operators and hospitals are speculated to see a spike in calls during a full moon phase. This project attempts to analyze the calls for service and associated crimes in Gainesville, Florida that went to the police department between 2018 and 2021 during the four moon phases (New Moon, First Quarter, Third Quarter, and Full Moon).  We selected this topic to explore if there is any connection to the moon phases and calls to service to determine if the myth is simply a myth or a probable explanation for the weird things that occur on a full moon.
 
 H₀= There is no statistical difference between the moon phase and crime type.
 
 Ha=There is a statistical difference between moon phase and crime type.
 
-Other Questions:
-1.  Can we predict the type of crimes based on the moon phases? 
-- Crimes are categorized into Person or Property and further separated by crime type.
-2.	What type of crimes should we expect leading up to the full moon? 
-3.	Are the moon phases relevant? If so, which is the most?
+In this model the main question we aim to answer:
+1.Can we predict the type of crimes based on the moon phases? 
+ Larger Analysis Questions:
+2.What type of crimes should we expect leading up to the full moon? 
+3.Are the moon phases relevant? If so, which is the most?
 
 Assumption:
 There is some assumption that following March 2020 the calls to service will trend differently due to COVID-19.
@@ -95,7 +93,7 @@ Date is the foreign key connection between CallsForService and MoonPhase. "CFS" 
 
 ## Machine Learning
 SciKitLearn is the library that will be used.  We will be using:
-- Scikit 
+  - Scikit 
   - TensorFlow
   - Clustering
   - y = Violent crime
@@ -105,7 +103,7 @@ SciKitLearn is the library that will be used.  We will be using:
   - Naive-Bayes
 
 ## Dashboard
-We will use Tableau Public and MatPlotLib/Plotly for visual displays and fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/MoonPhaseCrime_Test/MapofAssaultBatteryLocations?publish=yes)
+We will use Tableau Public and MatPlotLib/Plotly for visual displays and fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/Gainesville_Crime_Project/CFSByAddress?publish=yes)
   
 
 
