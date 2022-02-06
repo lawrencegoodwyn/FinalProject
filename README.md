@@ -103,7 +103,7 @@ SciKitLearn is the library that will be used.  We will be using:
   - Naive-Bayes
 
 ## Dashboard
-We will use Tableau Public and MatPlotLib/Plotly for visual displays and fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/Gainesville_Crime_Project/CFSByAddress?publish=yes)
+We will use Tableau Public for visual displays and a fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/Gainesville_Crime_Project/CFSByAddress?publish=yes)
   
 
 
