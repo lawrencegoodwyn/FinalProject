@@ -94,14 +94,11 @@ Date is the foreign key connection between CallsForService and MoonPhase. "CFS" 
 ## Machine Learning
 SciKitLearn is the library that will be used.  We will be using:
   - Scikit 
-  - TensorFlow
-  - Clustering
-  - y = Violent crime
-  - X = moonphase
-  - K-Nearest Neighbor
-  - RandomForest
-  - Naive-Bayes
+  - RandomForestClassifer
+  - y = ['cfs_class']
+  - X = ['cfs', 'date', 'offensedow', 'cfslatitude,'cfslongitude'.'cfs_type', 'moonphase']
 
+The model is then fit, scaled, and an accuracy score and confusion matrix is output. 
 ## Dashboard
 We used Tableau Public for visual displays and a fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/Gainesville_Crime_Project/InteractiveDashboard?publish=yes)
   
