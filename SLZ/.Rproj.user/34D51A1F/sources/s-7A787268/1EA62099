@@ -1,0 +1,28 @@
+{
+    "id": "1EA62099",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1644066734410.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "22070a6ef54a4f0da8900d1c6b45f276",
+        "name": "plt",
+        "title": "plt",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8305047166719390830,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644066734410,
+    "read_only": false,
+    "read_only_alternatives": []
+}
