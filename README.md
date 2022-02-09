@@ -31,26 +31,8 @@ The City of Gainesville data is a csv file with unique crime IDs, Incident type,
 The selected moon phase date range for this project was January 1st, 2018, to December 31st, 2021.
 
 ## Data Cleaning
-Our data source was cleaned using Jupyter Notebook and Pandas. First we renamed our columns as such:
-- 'IncidentType': 'CFS'
-- 'Report Date' : 'reportDate'
-- 'Offense Date' : 'offenseDate'
-- 'Report Hour of Day' : 'reportHour'
-- 'Report Day of Week' : 'reportDOW'
-- 'Offense Hour of Day' : 'offenseHour'
-- 'Offense Day of Week' : 'offenseDOW'
-- 'City' : 'city'
-- 'State' : 'state'
-- 'Address' : 'address'
-- 'Latitude' : 'latitude'
-- 'Longitude' : 'longitude'
-- 'Location' : 'location
 
-After renaming our columns we filtered for our date range on the offense date column. Next, we dropped all columns but "ID","CFS", "offenseDate", "offenseHour", "offenseDOW", "latitude", "longitude" and "CFS_Type". 
-
-Then the moon phase data source was read in as a data frame. The date-time format was changed with pandas "to_datetime".  The moon phase and Gainesville Crime and Classifications data frames were all merged 
-on the Date column. Persons, Property, Government and other are the four crime classifications ("CFS") a crime type("CFS_Type") could fall under. 
-
+First, 
 We got rid of incidents that didn’t necessarily imply a crime occurred and refined our crime types to the unique list of instances below.
 Unique incident types that were removed: 
 1. assist other agencies, 
@@ -67,6 +49,27 @@ Unique incident types that were removed:
 12. found-returned,
 13. seize tag
 
+
+Our data source was cleaned using Jupyter Notebook and Pandas. First we renamed our columns as such:
+- 'IncidentType': 'CFS'
+- 'Report Date' : 'reportDate'
+- 'Offense Date' : 'offenseDate'
+- 'Report Hour of Day' : 'reportHour'
+- 'Report Day of Week' : 'reportDOW'
+- 'Offense Hour of Day' : 'offenseHour'
+- 'Offense Day of Week' : 'offenseDOW'
+- 'City' : 'city'
+- 'State' : 'state'
+- 'Address' : 'address'
+- 'Latitude' : 'latitude'
+- 'Longitude' : 'longitude'
+- 'Location' : 'location
+
+
+After renaming our columns, we filtered the crimes on 01-01-2018 - 12-31-2021 on the "offenseDate" column. Next, we dropped all columns but "ID","CFS", "offenseDate", "offenseHour", "offenseDOW", "latitude", "longitude" and "CFS_Type". 
+
+Then the moon phase data source was read in using an API call as a data frame. The date-time format was changed with pandas "to_datetime".  The moon phase and Gainesville Crime and Classifications data frames were all merged on the Date column. Persons, Property, Government and other are the four crime classifications ("CFS") a crime type ("CFS_Type") could fall under. 
+
 With the remaining unique incident types, we decided to group them into the following categories: 
 
 **Crime types** 
@@ -80,6 +83,8 @@ With the remaining unique incident types, we decided to group them into the foll
 - Suicide
 - Government regulation violation
 - Quality of life
+
+- The 10 crime types were then seperated and classified as either Person or Property crimes with Python using str.contains. And then, the LabelEncoder from sklearn was used to encode the "class", "moonphase", "offensedow", "cfs", "date", and "cfs_type" columns.
 
 ## Data Storage
 
@@ -97,8 +102,11 @@ SciKitLearn is the library that will be used.  We will be using:
   - RandomForestClassifer
   - y = ['cfs_class']
   - X = ['cfs', 'date', 'offensedow', 'cfslatitude,'cfslongitude'.'cfs_type', 'moonphase']
+  - The model is then fit using RandomForestClassifier 
+  - Scaled using StandardScaler()
+  - Accuracy score
+  - Confusion matrix is output for Predicted vs Actual Person and Property calls for service. 
 
-The model is then fit, scaled, and an accuracy score and confusion matrix is output. 
 ## Dashboard
 We used Tableau Public for visual displays and a fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/Gainesville_Crime_Project/InteractiveDashboard?publish=yes)
   
