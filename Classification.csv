@@ -1,0 +1,217 @@
+cfs,cfs_type,cfs_class
+Driving Under the Influence,Alcohol,Government
+Poss. of Alcohol Under 21 Yoa,Alcohol,Government
+All Other Liquor Law Viol.,Alcohol,Government
+Alcohol Beverage-possess by Person Under 21 Yoa,Alcohol,Government
+Assault (police Officer Aggravated),Assault,Person
+Domestic Aggravated Assualt,Assault,Person
+Assault (aggravated),Assault,Person
+Domestic Assault,Assault,Person
+Assault (simple),Assault,Person
+Verbal Threats,Assault,Person
+Written Threat to Kill or Injure,Assault,Person
+Dating Violence Aggravated Assault,Assault,Person
+Domestic Aggravated Battery,Battery,Person
+Domestic Simple Battery,Battery,Person
+Dating Violence Simple Battery,Battery,Person
+Robbery (strong Arm),Battery,Person
+Battery (simple),Battery,Person
+Domestic Battery by Strangulation,Battery,Person
+Battery (aggravated),Battery,Person
+Battery (felony),Battery,Person
+Battery (police Officer),Battery,Person
+Battery (security Guard/officer),Battery,Person
+Battery on Detention or Commitment Facility St...,Battery,Person
+Battery on a Person 65 Yoa or Older,Battery,Person
+Battery (simple � With Other Weapon),Battery,Person
+Domestic Felony Battery Repeat Offender,Battery,Person
+Dating Violence Aggravated Battery by Strangul...,Battery,Person
+Dating Violence Aggravated Battery,Battery,Person
+Dating Violence Felony Battery,Battery,Person
+Battery on a Emergency Medicalcare Provider,Battery,Person
+Battery on a School Board Employee,Battery,Person
+Battery (police Officer Aggravated),Battery,Person
+Att Homicide,Battery,Person
+Battery (security Guard/officer Aggravated),Battery,Person
+Death Investigation,Death Inv/Homicide,Person
+Homicide,Death Inv/Homicide,Person
+Overdose,Death Inv/Homicide,Person
+Drug Poss. of Controlled Substance,Drugs,Government
+Drug Equip/paraphernalia,Drugs,Government
+Drug Violation (using),Drugs,Government
+Drug Violation,Drugs,Government
+Drug Violation (selling),Drugs,Government
+Drug Violation (sid),Drugs,Government
+Drug Violation (buying),Drugs,Government
+Possession of Less Than 20g of Cannabis,Drugs,Government
+Identity Theft,Fraud,Property
+Fraud (obtain Money/property by False Pretense),Fraud,Property
+Fraud (credit Card/atm),Fraud,Property
+Fraud (forgery),Fraud,Property
+Fraud (all Other),Fraud,Property
+Fraud (impersonation),Fraud,Property
+Counterfeiting,Fraud,Property
+Uttering Forged Instruments,Fraud,Property
+Fraud (worthless Check),Fraud,Property
+Exploitation of the Elderly/disabled,Fraud,Property
+Utter Forged/counterfeit Bill,Fraud,Property
+Fraud (embezzlement),Fraud,Property
+Fraud (welfare),Fraud,Property
+Weapons Violation (possessing/concealing),Gov Reg Vio,Government
+Domestic Violence Injunction Violation,Gov Reg Vio,Government
+Violation of Temporary Injunction,Gov Reg Vio,Government
+Making False 911 Call,Gov Reg Vio,Government
+Traffic Offense (all Other),Gov Reg Vio,Government
+Possess Firearm/concealed Weapon by Convicted ...,Gov Reg Vio,Government
+Driving While License Suspended/revoked,Gov Reg Vio,Government
+Violation of Pretrial Release,Gov Reg Vio,Government
+Resist/obstructing Without Violence,Gov Reg Vio,Government
+Flee/attempt to Elude Police Officer,Gov Reg Vio,Government
+Discharge Firearm in Public,Gov Reg Vio,Government
+Escaped Prisoner,Gov Reg Vio,Government
+Tampering With Evidence,Gov Reg Vio,Government
+Introduction of Contraband Into County Detenti...,Gov Reg Vio,Government
+Resist/obstructing With Violence,Gov Reg Vio,Government
+Weapons Violation,Gov Reg Vio,Government
+Violation of Probation,Gov Reg Vio,Government
+Sex Offender/predator Violation <48 Hrs,Gov Reg Vio,Government
+Possession of Child Pornography,Gov Reg Vio,Government
+Violation of Permanent Injunction,Gov Reg Vio,Government
+Dating Violence Injunction Violation,Gov Reg Vio,Government
+Discharge Firearm From Vehicle Within 1000 Fee...,Gov Reg Vio,Government
+Domestic Violence Violation of Pretrial Releas...,Gov Reg Vio,Government
+False Info to Leo,Gov Reg Vio,Government
+Filing False Police Report,Gov Reg Vio,Government
+Marchman Act,Gov Reg Vio,Government
+Prostitution,Gov Reg Vio,Government
+Habitual Traffic Offender - Dwlsr,Gov Reg Vio,Government
+Violation of Probation - Juvenile,Gov Reg Vio,Government
+Panhandling,Gov Reg Vio,Government
+Violation of Home Detention - Juvenile,Gov Reg Vio,Government
+City Ordinance Violation,Gov Reg Vio,Government
+Driving With No License,Gov Reg Vio,Government
+Vehicle Not Registered,Gov Reg Vio,Government
+Possession Tobacco Under 18 Years of Age,Gov Reg Vio,Government
+Stalking - Vio. of Court Order,Gov Reg Vio,Government
+Tamper W/victim Witness,Gov Reg Vio,Government
+Career Offender Violation,Gov Reg Vio,Government
+Presenting Dl of Another as Own,Gov Reg Vio,Government
+Unauthorized Poss Manuf Fl Dl,Gov Reg Vio,Government
+False Info on Pawn Transaction Form,Gov Reg Vio,Government
+False Alarms of Fires First Offense,Gov Reg Vio,Government
+Striking a Police Animal,Gov Reg Vio,Government
+Gambling,Gov Reg Vio,Government
+Open House Party,Gov Reg Vio,Government
+Liquor Law Violation (sell to Minor),Gov Reg Vio,Government
+"Hinder, Delay, Prevent Communication to Law En...",Gov Reg Vio,Government
+Domestic Violence Injunction,Gov Reg Vio,Government
+Violation Domestic Violence Injunction,Gov Reg Vio,Government
+Falsely Personating Officer,Gov Reg Vio,Government
+False Official Statement,Gov Reg Vio,Government
+Headlights Driving Without Twilight to Sunrise...,Gov Reg Vio,Government
+"Disruption of School, Religious, or Lawful Ass...",Gov Reg Vio,Government
+Electronic Communication Promoting Criminal Ga...,Gov Reg Vio,Government
+Fire,Other,Property
+Suspicious Incident,Other,Other 
+Found Property,Other,Other 
+Sick / Injured Person,Other,Person
+Arson,Other,Property
+Theft Grand - Other,Theft,Property
+Computer Crimes,Other,Other 
+Exposure of Sexual Organs / Indecent Exposure,Other,Person
+Animal Attack,Other,Other 
+Missing Person,Other,Person
+Damage to City Property,Other,Property
+Stolen Property (buying/receiving),Other,Property
+Shooting/throwing a Deadly Missile Into a Dwel...,Other,Other 
+Runaway,Other,Person
+Animal Cruelty,Other,Other 
+Resisting Merchant Detainment,Other,Other 
+Cyber Stalking,Other,Other 
+Indecent Exposure,Other,Person
+Stalking (simple),Other,Person
+Stalking (aggravated),Other,Person
+Dating Violence Aggravated Stalking,Other,Person
+Stolen Property (selling/distributing),Other,Property
+Bomb Threat,Other,Government
+Extortion/threats,Other,Person
+Crimes Against the Elderly,Other,Person
+False Imprisonment(kidnap),Other,Person
+Threatening Phone Calls,Other,Person
+Baker Act,Other,Other 
+Luring or Enticing a Child,Other,Person
+Sexual Battery,Other,Person
+Child Neglect,Other,Person
+Threats,Other,Person
+Dating Violence False Imprisonment,Other,Person
+Lewd or Lascivious Exhibition Offender 18,Other,Person
+Sexual Battery - Victim 18 or Older and Physic...,Other,Person
+Hit & Run,Other,Property
+Stolen Property (possession/conceal),Other,Property
+Reckless Driving,Other,Property
+Aircraft Incident,Other,Property
+Dating Violence Simple Stalking,Other,Person
+Resist Merchant Use Antishoplifting Cntrl Dvc ...,Other,Property
+Money Laundering,Other,Property
+"Causing, Encouraging, Soliciting, Recruiting G...",Other,Other 
+Explosive / Destructive Device,Other,Property
+Criminal Mischief,Other,Property
+Trespass Warning,Quality of Life,Other 
+Domestic Disturbance,Quality of Life,Person
+Damage to Property,Quality of Life,Property
+Trespass,Quality of Life,Property
+Loitering and Prowling,Quality of Life,Person
+Disturbance,Quality of Life,Person
+Criminal Mischief (misdemeanor),Quality of Life,Property
+Disorderly Conduct,Quality of Life,Person
+Disturbance Civil,Quality of Life,Other 
+Harassing/ Obscene Calls,Quality of Life,Person
+Affray,Quality of Life,Person
+Criminal Mischief (felony),Quality of Life,Property
+Juvenile Problem / Disturbance,Quality of Life,Person
+Harassment,Quality of Life,Person
+Animal Problem,Quality of Life,Other 
+Disorderly Intoxication,Quality of Life,Person
+Trash Dumping,Quality of Life,Property
+Disruption of School Function,Quality of Life,Other 
+Noise Complaint,Quality of Life,Other 
+Suicide,Suicide,Person
+Burglary to Residence,Theft,Property
+Theft Grand - Retail,Theft,Property
+Robbery (armed),Theft,Property
+Theft Petit - Other,Theft,Property
+Theft Petit - Retail,Theft,Property
+Stolen Vehicle (auto),Theft,Property
+Burglary to Conveyance,Theft,Property
+Stolen Vehicle (motorcycle),Theft,Property
+Robbery,Theft,Property
+Burglary to Business,Theft,Property
+Stolen Vehicle (other),Theft,Property
+Theft Petit - From Building,Theft,Property
+Theft Petit - Bicycle,Theft,Property
+Robbery by Sudden Snatching,Theft,Property
+Robbery (carjacking),Theft,Property
+Theft Grand - From Building,Theft,Property
+Robbery (home Invasion),Theft,Property
+Theft Petit - Purse Snatching,Theft,Property
+Theft Grand - From Vehicle (vehicle Parts),Theft,Property
+Theft Petit - From Vehicle/not Parts,Theft,Property
+Theft Grand - Pocket-picking,Theft,Property
+Theft Petit - From Vending Machine,Theft,Property
+Theft Petit - From Vehicle (vehicle Parts),Theft,Property
+Theft Grand - From Vehicle (not Parts),Theft,Property
+Theft Grand - Bicycle,Theft,Property
+Burglary to a Structure,Theft,Property
+Stolen Vehicle (truck),Theft,Property
+Theft Petit - Trailer,Theft,Property
+Theft Grand - Trailer,Theft,Property
+Theft Petit - Pocket-picking,Theft,Property
+Stolen Vehicle (scooter),Theft,Property
+Armed Burglary of a Dwelling or Structure,Theft,Property
+Theft Grand -firearm,Theft,Property
+Defrauding an Innkeeper/obtain Food/lodging by...,Theft,Property
+Molestation of Vending Machine,Theft,Property
+Theft Grand - From Vending Machine,Theft,Property
+Gas Drive Off,Theft,Property
+Theft Grand - Purse Snatching,Theft,Property
+"Theft Grand - Value 300 to 4,999",Theft,Property
